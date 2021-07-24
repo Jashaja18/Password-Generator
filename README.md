@@ -6,4 +6,4 @@ Planned Features:
 - Storing previously used passwords
 - Implementing a 6-digit number generator
 - Weak to Strong password identifier
-- Notification center when password is deemed old or unsafe
+- Notification center when password is deemed too old or unsafe
